@@ -1,0 +1,1 @@
+# Hackintosh config for Jolie
