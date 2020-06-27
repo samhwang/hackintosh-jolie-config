@@ -209,18 +209,6 @@
 			<dict>
 				<key>AAPL,ig-platform-id</key>
 				<data>BwCbPg==</data>
-				<key>framebuffer-con0-enable</key>
-				<data>AQAAAA==</data>
-				<key>framebuffer-con1-enable</key>
-				<data>AQAAAA==</data>
-				<key>framebuffer-con2-enable</key>
-				<data>AQAAAA==</data>
-				<key>framebuffer-con0-alldata</key>
-				<data>AQUJAAAEAADHAwAA</data>
-				<key>framebuffer-con1-alldata</key>
-				<data>AgQKAAAIAADHAwAA</data>
-				<key>framebuffer-con2-alldata</key>
-				<data>AwYIAAAEAADHAwAA</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
