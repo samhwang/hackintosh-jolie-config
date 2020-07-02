@@ -92,6 +92,10 @@
 		<data>
 		ObLdN5KRjSBaFR4D9rtznJ0QnZvpDlt3/zrV8gqUG10=
 		</data>
+		<key>Kexts\USBMap.kext\Contents\Info.plist</key>
+		<data>
+		RhqhrnshNY5ejEQNLenVyhawydnjsDB/F7ZSuVIhl3c=
+		</data>
 		<key>Kexts\VirtualSMC.kext\Contents\Info.plist</key>
 		<data>
 		YO7/Qvshg16e1yv8ivI6RIs2B6aq6DWdo+klw4wMpYw=
@@ -302,7 +306,7 @@
 		</data>
 		<key>config.plist</key>
 		<data>
-		mKoYxwPIT5ArLsfUzY0XgoxagP0r/KKpoDQQdTyItCY=
+		b9modU03WFN8pzBRlPrTwnGPtb3O6aLimBO2KOoQS9A=
 		</data>
 	</dict>
 	<key>Version</key>
